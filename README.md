@@ -10,7 +10,7 @@ There are 2 parts:
 
 After successful registration Students can login:
 
-Login As A teacher:
+Login As A teacher(admin actually):
 1. You can host any exam(as a teacher)
 2. You can Update or delete any exam or question
 3. you can see marks of all student who participated in exam
